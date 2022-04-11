@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lahiru Rajapakshe</h1>
-<h3 align="center">Junior Software Enigneer</h3>
+<h1 align="center">Lahiru Rajapakshe</h1>
+<h3 align="center">Software Enigneer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
