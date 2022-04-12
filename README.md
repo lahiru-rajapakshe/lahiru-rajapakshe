@@ -1,7 +1,7 @@
 <h1 align="center">Lahiru Rajapakshe</h1>
-<h3 align="center">Fullstack Software Enigneer</h3>
+<h5 align="center">Fullstack Software Enigneer</h5>
 
-<h3 align="left">Connect with me:</h3>
+<h5 align="left">Connect with me:</h5>
 <p align="left">
 </p>
 
