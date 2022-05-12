@@ -14,5 +14,6 @@
 <h5 align="left">Badges</h5>
 
 
-<a href="https://www.hackerrank.com/lahirurajapaksh1" target="_blank">![java](https://user-images.githubusercontent.com/66423576/167311227-13b12b62-40a2-47d1-b765-d874dbaa8a21.png)</a>
+<a href="https://www.hackerrank.com/lahirurajapaksh1" target="_blank">![java](https://user-images.githubusercontent.com/66423576/167311227-13b12b62-40a2-47d1-b765-d874dbaa8a21.png) ![os](https://user-images.githubusercontent.com/66423576/168031688-c52d89ae-2fa7-4dda-a334-541668017f93.png)
+</a>
 
