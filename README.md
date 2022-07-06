@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Lahiru Rajapakshe</h1>
-<h3 align="center">trainee Software Enigneer</h3>
+<h1 align="center">Lahiru Rajapakshe</h1>
+<h3 align="center">Trainee Software Enigneer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lahiru-rajapakshe&label=Profile%20views&color=0e75b6&style=flat" alt="lahiru-rajapakshe" /> </p>
+
 
 
 
