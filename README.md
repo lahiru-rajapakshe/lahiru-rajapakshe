@@ -18,7 +18,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lahiru-rajapakshe&show_icons=true&locale=en&layout=compact" alt="lahiru-rajapakshe" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lahiru-rajapakshe&show_icons=true&locale=en" alt="lahiru-rajapakshe" /></p>
 
