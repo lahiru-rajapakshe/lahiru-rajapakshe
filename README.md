@@ -1,5 +1,5 @@
 <h1 align="center">Lahiru Rajapakshe</h1>
-<h3 align="center">Trainee Software Enigneer</h3>
+<h3 align="center"> Software Enigneer</h3>
 
 
 
